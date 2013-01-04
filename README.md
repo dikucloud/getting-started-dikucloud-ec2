@@ -8,5 +8,5 @@ The project has been made possible due to a generous [AWS in Education grant awa
 
 ## Getting started with your student project on Amazon EC2
 
-* [Start your own DIKU cloud project on Amazon EC2](https://github.com/dikucloud/ec2-projects/blob/master/start.md)
+* [Start your own DIKU cloud project on Amazon EC2](https://github.com/dikucloud/getting-started-dikucloud-ec2/blob/master/start.md)
 * [Browse all dikucloud projects](https://github.com/dikucloud)
