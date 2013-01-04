@@ -1,6 +1,8 @@
 # DIKU-Cloud student projects on Amazon EC2
 
-The DIKU cloud initiative is aimed at [DIKU](http://www.diku.dk/) students, who want to do projects using resources on the Amazon EC2 cloud computing platform. Cloud projects are special because it is difficult to do one without actually spending money. The aim of the DIKU cloud initiative to remove the monetary barrier, so students can learn about the technological and computer science aspects of cloud computing, without worrying about money.
+The DIKU cloud initiative is aimed at [DIKU](http://www.diku.dk/) students, who want to do projects using resources on the Amazon EC2 cloud computing platform. 
+
+Cloud projects are special because it is difficult to do one without actually spending money. We have taken care of most of the money issue, so you can focus on technology and computer science related to cloud computing. To get started all you have to do is to make a rough budget of the cloud resources you'll need in your project. See the [getting started](https://github.com/dikucloud/getting-started-dikucloud-ec2/blob/master/start.md) page for more details. 
 
 ## Acknowledgements
 
