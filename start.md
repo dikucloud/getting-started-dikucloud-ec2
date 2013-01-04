@@ -18,14 +18,28 @@ Here is a template you can use for your email to kostas@diku.dk
 ```
 Hi, I'd like to use resources on Amazon EC2 for a student project at DIKU.
 
-Student name(s): YOUR NAME(S)
-Supervisor: YOUR SUPERVISOR'S NAME
-Project type: ONE OF ('bachelor project', 'graduate project', 'master's thesis')
-Link to your EC2 budget (made with Amazon EC2 Calculator): LINK TO BUDGET
+Student name(s) and email addresses: 
+YOUR NAME(S), e.g. John Doe (john@example.com), Jane Doe (jane@example.com)
+
+Project title: 
+TITLE FOR YOUR PROJECT
+
+Supervisor: 
+YOUR SUPERVISOR'S NAME
+
+Project type: 
+ONE OF ('bachelor project', 'graduate project', 'master's thesis')
+
+Link to your EC2 budget (made with Amazon EC2 Calculator): 
+LINK TO BUDGET
 
 Best regards,
 A student at DIKU
 ```
 
-If you have any questions about this process, please do not hesitate to ask questions: kostas@diku.dk
+When your application has been processed, you'll get an email with further instructions
+
+## Questions?
+
+If you have any questions about any of this, please do not hesitate to write kostas@diku.dk
 
