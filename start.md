@@ -33,11 +33,24 @@ ONE OF ('bachelor project', 'graduate project', 'master's thesis')
 Link to your EC2 budget (made with Amazon EC2 Calculator): 
 LINK TO BUDGET
 
+(Optional) Your Github username(s):
+YOUR GITHUB USERNAME(S)
+
 Best regards,
 A student at DIKU
 ```
 
-When your application has been processed, you'll get an email with further instructions
+When your application has been processed, you'll get an email with further instructions.
+
+## Why do we ask for your Github username?
+
+To encourage sharing of knowledge among DIKU students and staff, a [Github](https://github.com/) repository will be automatically created as part of your project. If you supply your Github username(s), you will be added as collaborators to the project, and will be able to commit code, latex or whatever you feel is relevant. 
+
+Collecting the project repositories under the [dikucloud](https://github.com/dikucloud/) Github account, makes it easy for others to find your project, and benefit from your new cloud knowhow.
+
+If you do not wish to share your project with others, that is of course perfectly ok. Simply leave the repository empty (and eventually deleted).
+
+If you do not give your usernames right away, they can always be added later. Simply write an email to kostas@diku.dk, and ask that you be added as collaborator. We can only add you as collaborator to your own projects, but what you do after that is up to you!
 
 ## Questions?
 
