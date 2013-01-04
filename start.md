@@ -1,4 +1,4 @@
-# Start you own DIKU cloud Amazon EC2 project
+# Get started with Amazon EC2 for DIKU cloud projects
 
 [Read more about DIKU EC2 cloud projects](https://github.com/dikucloud/ec2-projects/blob/master/README.md)
 [Amazon EC2 getting started](http://awsdocs.s3.amazonaws.com/EC2/latest/ec2-gsg.pdf)
