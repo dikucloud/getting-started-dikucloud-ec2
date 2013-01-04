@@ -7,7 +7,7 @@
 
 When you're ready, send an email to kostas@diku.dk
 
-Before sending the, you'll need to make a rough budget for your usage on Amazon EC2. Don't worry, it is not hard. Use the Amazon EC2 Calculator (link below) to make the budget. Don't worry if it is not 100% accurate, just make an effort to make it roughly so (a [back-of-the-envelope calculation](http://en.wikipedia.org/wiki/Back-of-the-envelope_calculation)).
+First, make a rough budget for your usage on Amazon EC2. Don't worry, it is not hard. Use the Amazon EC2 Calculator (link below) to make the budget. Don't worry if it is not 100% accurate, just make an effort to make it roughly so (a [back-of-the-envelope calculation](http://en.wikipedia.org/wiki/Back-of-the-envelope_calculation)).
 
 * [Amazon EC2 Calculator](http://calculator.s3.amazonaws.com/calc5.html)
 
