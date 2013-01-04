@@ -5,15 +5,13 @@
 
 ## How to start your own cloud project
 
-Do one of the following:
+When you're ready, send an email to kostas@diku.dk
 
-* Send an email to kostas@diku.dk with the content given below (enter your information as appropriate):
-
-Before applying, you'll need to make a rough budget for your usage on Amazon EC2. Don't worry, it is not hard. Use the Amazon EC2 Calculator (link below) to make the budget. Don't worry if it is not 100% accurate, but make an effort to make it roughly so.
+Before sending the, you'll need to make a rough budget for your usage on Amazon EC2. Don't worry, it is not hard. Use the Amazon EC2 Calculator (link below) to make the budget. Don't worry if it is not 100% accurate, just make an effort to make it roughly so (a [back-of-the-envelope calculation](http://en.wikipedia.org/wiki/Back-of-the-envelope_calculation)).
 
 * [Amazon EC2 Calculator](http://calculator.s3.amazonaws.com/calc5.html)
 
-When you are done with your budget and have saved it, you'll get an URL for sharing. Write down/copy this URL. You'll need to enter the link in the email.  
+When you are done with your budget and have saved it, you'll get an URL for sharing. Write down/copy this URL.
 
 Here is a template you can use for your email to kostas@diku.dk
 
