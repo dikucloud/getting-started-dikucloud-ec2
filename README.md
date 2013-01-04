@@ -4,5 +4,7 @@ The DIKU cloud initiative is aimed at [DIKU](http://www.diku.dk/) students, who 
 
 The DIKU cloud EC2 projects have been made possible due to a generous [AWS in Education grant award](http://aws.amazon.com/education/).
 
-* [Start your own DIKU cloud Amazon EC2 project](https://github.com/dikucloud/ec2-projects/blob/master/start.md)
+## Getting started with your student project on Amazon EC2
+
+* [Start your own DIKU cloud project on Amazon EC2](https://github.com/dikucloud/ec2-projects/blob/master/start.md)
 * [Browse all dikucloud projects](https://github.com/dikucloud)
