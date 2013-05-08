@@ -12,6 +12,10 @@ Because the EC2 credits are awarded to students through an [AWS in Education gra
 
 Details on the grant's terms and conditions can be found here: [http://aws.amazon.com/education/terms/](http://aws.amazon.com/education/terms/)
 
+Additional requirements
+
+* We require you to make a budget of projected resources expenses. Use [Amazon EC2 Calculator](http://calculator.s3.amazonaws.com/calc5.html) to make the budget.
+
 ## How to start your own cloud project
 
 You apply to access to EC2 credits by sending an email to kostas@diku.dk
