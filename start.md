@@ -14,7 +14,8 @@ Details on the grant's terms and conditions can be found here: [http://aws.amazo
 
 Additional requirements
 
-* We require you to make a budget of projected resources expenses. Use [Amazon EC2 Calculator](http://calculator.s3.amazonaws.com/calc5.html) to make the budget.
+* You must make a budget of projected resources expenses. Use [Amazon EC2 Calculator](http://calculator.s3.amazonaws.com/calc5.html) to make the budget.
+* Attach budget to formal application (template given below)
 
 ## How to start your own cloud project
 
