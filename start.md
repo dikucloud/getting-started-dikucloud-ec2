@@ -3,16 +3,14 @@
 [Read more about DIKU EC2 cloud projects](https://github.com/dikucloud/ec2-projects/blob/master/README.md)
 [Amazon EC2 getting started](http://awsdocs.s3.amazonaws.com/EC2/latest/ec2-gsg.pdf)
 
-## Terms for projects
+## Requirements for projects
 
-Because the EC2 credits are awarded to students through an [AWS in Education grant award](http://aws.amazon.com/education/), there are a few limitations to how the credits can be used:
+Because the EC2 credits are awarded to students through an [AWS in Education grant award](http://aws.amazon.com/education/), there are a few limitations to how the credits can be used (details of terms and conditions: [http://aws.amazon.com/education/terms/](http://aws.amazon.com/education/terms/)):
 
 * It is not possible to allocate Reserved Instances. This is not a technical limitation, as all instance types can be allocated as On-Demand instances on EC2.
 * The credits awarded to students must be used exclusively to support their university project.
 
-Details on the grant's terms and conditions can be found here: [http://aws.amazon.com/education/terms/](http://aws.amazon.com/education/terms/)
-
-Additional requirements
+Additional requirements:
 
 * You must make a budget of projected resources expenses. Use [Amazon EC2 Calculator](http://calculator.s3.amazonaws.com/calc5.html) to make the budget.
 * Attach budget to formal application (template given below)
