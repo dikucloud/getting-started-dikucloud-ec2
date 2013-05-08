@@ -12,7 +12,7 @@ Because the EC2 credits are awarded to students through an [AWS in Education gra
 
 Additional requirements:
 
-* You must make a budget of projected resources expenses. Use [Amazon EC2 Calculator](http://calculator.s3.amazonaws.com/calc5.html) to make the budget.
+* You must make a budget of your estimated expenses. Use [Amazon EC2 Calculator](http://calculator.s3.amazonaws.com/calc5.html) to make the budget.
 * Attach budget to formal application (template given below)
 
 ## How to start your own cloud project
